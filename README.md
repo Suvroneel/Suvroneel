@@ -5,6 +5,7 @@
 - I have good knowledge of programming languages like Core Java ,Python, MySQL , Php,R ,C,OPP,MS EXCEL
 - I also have knowledge on Frameworks like Angular js, and Data analysis, Dashboards  
 - I have good knowledge of ML like Supervised,Unsupervised ,Deep learning .Made a full E2E project on it
+
   🔗https://spam-email-and-sms-classifier-pnionjxgaq94r8brm9zkyt.streamlit.app/
   
 - I’m compatible on working various operating systems like windows xp,windows10 , etc.
