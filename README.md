@@ -1,5 +1,5 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-#  Hi there , I am Suvroneel
+<h2>Hi there , I am Suvroneel</h2>
 
 
 <a href="https://ultrainstinct0x.github.io"><img src="https://github.com/UltraInstinct0x/ultraInstinct0x/blob/main/etc/Goku%20Dragon.png?raw=true" align="right" height="310" /></a>
