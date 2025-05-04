@@ -2,7 +2,7 @@
 <h2>Hi there , I am Suvroneel</h2>
 
 
-<a href="https://ultrainstinct0x.github.io"><img src="https://github.com/UltraInstinct0x/ultraInstinct0x/blob/main/etc/Goku%20Dragon.png?raw=true" align="right" height="310" /></a>
+<a href="https://ultrainstinct0x.github.io"><img src="https://github.com/UltraInstinct0x/ultraInstinct0x/blob/main/etc/Goku%20Dragon.png?raw=true" align="right" height="300" /></a>
 - 🎓 Computer Science Graduate (2023) with a deep-rooted passion for Python , AI, Machine Learning, and Data Science</br> 
 - 🧠 Built end-to-end ML and DL projects using Python, TensorFlow, PyTorch, and Open3D — from EDA to deployment  
 - 📊 Strong foundation in data analysis, model tuning, and visualization using Pandas, Seaborn, and Matplotlib  
