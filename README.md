@@ -3,7 +3,7 @@
 
 
 <a href="https://ultrainstinct0x.github.io"><img src="https://github.com/UltraInstinct0x/ultraInstinct0x/blob/main/etc/Goku%20Dragon.png?raw=true" align="right" height="310" /></a>
-- 🎓 Computer Science Graduate (2023) with a deep-rooted passion for AI, Machine Learning, and Data Science</br> 
+- 🎓 Computer Science Graduate (2023) with a deep-rooted passion for Python , AI, Machine Learning, and Data Science</br> 
 - 🧠 Built end-to-end ML and DL projects using Python, TensorFlow, PyTorch, and Open3D — from EDA to deployment  
 - 📊 Strong foundation in data analysis, model tuning, and visualization using Pandas, Seaborn, and Matplotlib  
 - 💼 Actively seeking full-time roles or internships in AI/ML, Data Science, or Research Engineering  
