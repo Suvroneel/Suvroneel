@@ -1,13 +1,16 @@
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
-<h2>Hi there , I am Suvroneel</h2>
 
+<h2>Hi there, I’m Suvroneel</h2>
 
-<a href="https://ultrainstinct0x.github.io"><img src="https://github.com/UltraInstinct0x/ultraInstinct0x/blob/main/etc/Goku%20Dragon.png?raw=true" align="right" height="300" /></a>
-- 🎓Data Scientist & Google certified Data Analyst with a deep-rooted passion for Python , AI, Machine Learning, and Data Science</br> 
-- 🧠 Built end-to-end ML and DL projects using Python, TensorFlow, PyTorch, and Open3D — from EDA to deployment  
-- 📊 Strong foundation in data analysis, model tuning, and visualization using Pandas, Seaborn, and Matplotlib  
-- 💼 Actively seeking full-time roles or internships in AI/ML, Data Science, or Research Engineering  
-- 🚀 Always learning — completed 5+ NPTEL courses and continuously exploring the latest in LLMs and Deep Learning
+<a href="https://ultrainstinct0x.github.io">
+  <img src="https://github.com/UltraInstinct0x/ultraInstinct0x/blob/main/etc/Goku%20Dragon.png?raw=true" align="right" height="300" />
+</a>
+
+- Data Scientist and Google-Certified Data Analyst with experience in Python, AI, Machine Learning, and Deep Learning.  
+- Built and deployed end-to-end ML/DL solutions using Python, TensorFlow, PyTorch, and Open3D, covering EDA, model development, optimization, and deployment.  
+- Skilled in data analysis, feature engineering, model tuning, and visualization with Pandas, Seaborn, and Matplotlib to deliver actionable insights.  
+- Seeking full-time roles or internships in AI/ML, Data Science, or Research Engineering, focused on building scalable, production-ready systems.  
+- Lifelong learner, having completed 5+ NPTEL courses and actively exploring advanced LLMs, Deep Learning, and AI frameworks.
 
 
 ## 🌐 Socials:
