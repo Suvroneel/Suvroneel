@@ -24,8 +24,36 @@
 
 <img src="https://github.com/UltraInstinct0x/ultraInstinct0x/blob/main/etc/Goku%20Dragon.png?raw=true" align="right" height="280" />
 
+### `$ whoami`
+
 <div align="center">
-  <img src="./terminal.svg" alt="whoami terminal" width="680"/>
+
+<img src="https://img.shields.io/badge/Suvroneel_Nathak-AI_%2F_ML_Engineer-00FF41?style=for-the-badge&labelColor=0d0d0d&color=00FF41" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/📍_Kolkata,_West_Bengal-India-00FF41?style=flat-square&labelColor=0d0d0d&color=003300" />
+&nbsp;
+<img src="https://img.shields.io/badge/🎓_B.Tech_CSE-Bengal_Institute_of_Technology-00FF41?style=flat-square&labelColor=0d0d0d&color=003300" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Generative_AI-focus-00FF41?style=flat-square&labelColor=111111" />
+&nbsp;
+<img src="https://img.shields.io/badge/Agentic_Systems-focus-00FF41?style=flat-square&labelColor=111111" />
+&nbsp;
+<img src="https://img.shields.io/badge/Computer_Vision-focus-00FF41?style=flat-square&labelColor=111111" />
+&nbsp;
+<img src="https://img.shields.io/badge/MLOps-focus-00FF41?style=flat-square&labelColor=111111" />
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/STATUS-Open_to_Full--time_%26_Early--stage_AI%2FML_Roles-00FF41?style=for-the-badge&labelColor=0d0d0d" />
+
+<br/><br/>
+
+> *I turn 2D photos into 3D meshes on a Tuesday. I ship things. Check below.*
+
 </div>
 
 <br clear="right"/>
