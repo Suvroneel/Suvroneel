@@ -24,24 +24,9 @@
 
 <img src="https://github.com/UltraInstinct0x/ultraInstinct0x/blob/main/etc/Goku%20Dragon.png?raw=true" align="right" height="280" />
 
-### `$ whoami`
-
-```python
-{
-  "name"     : "Suvroneel Nathak",
-  "role"     : "AI / ML Engineer",
-  "location" : "Kolkata, West Bengal, India",
-  "focus"    : [
-                 "Generative AI",
-                 "Agentic Systems",
-                 "Computer Vision",
-                 "MLOps"
-               ],
-  "education": "B.Tech CSE, Bengal Institute of Technology (2023)",
-  "open_to"  : "Full-time roles and early-stage AI/ML opportunities",
-  "fun_fact" : "I turn 2D photos into 3D meshes and call it a Tuesday"
-}
-```
+<div align="center">
+  <img src="./terminal.svg" alt="whoami terminal" width="680"/>
+</div>
 
 <br clear="right"/>
 
